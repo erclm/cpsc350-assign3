@@ -1,13 +1,11 @@
 # cpsc350-assign3
 
 Eric Lim
-
 2295713
-
 Assignment 3
 
-Tested on version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1)
 
+Tested on version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1)
 Also tested on Apple clang version 11.0.3 (clang-1103.0.32.29)
 
 References:
